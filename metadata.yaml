@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8167'
     url: http://www.gutenberg.org/2009/agents/8167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32713#Women-of-the-Romance-Countries--Illustrated-Woman--In-all-ages-and-in-all-countries-Vol.-6--o_
 gutenberg_issued: '2010-06-06'
 gutenberg_type: Text
 identifiers:
